@@ -1,7 +1,7 @@
 # Hello, I'm Victor
 ## 👋 About Me
-- 📚 I am a Junior at the University of Illinois in Urbana Champaign studying computer science.
-- 👀 I’m interested in Programming, Chess, and Music
+- 📚 I Computer Science graduate from the University of Illinois.
+- 👀 I’m interested in Programming, Chess, sustainability, and Music.
 - 🌱 Right now I am learning about machine learning and how to make large language models.
 ## 💻 Work Stats
 <p align="center">
